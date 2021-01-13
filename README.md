@@ -4,4 +4,4 @@
 - 🤔 I’m looking for help with [https://github.com/CozyPenguin/ImageCA](ImageCA), I don't have much time to work on it myself atm <!-- 💬 Ask me about -->
 - 📫 How to reach me: by mail - coozypenguin@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Minecraft is my favourite game
+- ⚡ Fun fact: I enjoy programming
